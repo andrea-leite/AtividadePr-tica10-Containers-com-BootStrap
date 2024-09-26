@@ -1,0 +1,29 @@
+body {
+    background-color: #272326;
+    
+}
+header p{
+    color: #303030;
+    font-weight: 600;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+section, footer {
+    margin: 40px;
+    
+}
+
+nav {
+    border: 2px solid #d3b5cb;
+    border-radius: 20px;
+}
+.container {
+    border:2px solid#d3b5cb;
+    border-radius: 20px;
+}
+ul li {
+    list-style: none;
+}
